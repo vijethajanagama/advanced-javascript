@@ -8,3 +8,5 @@ function baz(foo){
 	foo = "bam";
 	bam = "yay";
 }
+
+var bam = "tom";

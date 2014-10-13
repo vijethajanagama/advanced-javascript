@@ -1,6 +1,6 @@
 var foo = "baz";
 
-fucntion bar(){
+function bar(){
 	var foo = "baz";
 }
 
@@ -9,4 +9,4 @@ function baz(foo){
 	bam = "yay";
 }
 
-var bam = "tom";
+//var bam = "tom";
